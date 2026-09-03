@@ -41,7 +41,7 @@ This repository provides the official implementation of the uncertainty-aware pr
 ```bash
 # Clone the repository
 git clone https://github.com/testeraxion/stl-monitoring.git
-cd RL_policy
+cd stl-monitoring
 
 # Install dependencies
 pip install -e .
