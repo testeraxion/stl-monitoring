@@ -178,21 +178,6 @@ world_model:
 
 ---
 
-## 📚 Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{uncertainty_stl_2026,
-  title={Uncertainty-Aware Predictive STL Monitoring of RL Locomotion Policies Under Distribution Shift},
-  author={Anonymous Authors},
-  booktitle={NeurIPS 2026 Workshop on Robot Learning with World Models},
-  year={2026}
-}
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
